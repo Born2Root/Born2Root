@@ -10,13 +10,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-evtl. noch den User Name als Bild oben rein
+
+
+# Born2Root
+-->
+
 <p align="center">
   <img src="https://github.com/Born2Root/Born2Root/blob/main/Born2RootLogo.svg">
 </p>
 
--->
-# Born2Root
 <p align="center">
   <a href="https://github.com/SarveshMankar/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Always%20Experimenting!;Experienced%20Developer!%20;Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">         
@@ -48,8 +50,8 @@ That is also reflected in my repos, where you can find:
 
 # ❤️ Support:
 
-All mine and our projects are provided free of charge.
-If you like what we do, we would appreciate your support! 🤝
+All the projects of me and my developer-friends are provided free of charge.
+If you like what we do, we would really appreciate your support! 🤝
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/born2root)
 
