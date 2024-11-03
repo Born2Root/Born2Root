@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 evtl. noch den User Name als Bild oben rein
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/.svg">
+  <img src="https://github.com/Born2Root/Born2Root/blob/main/Born2RootLogo.svg">
 </p>
 
 -->
@@ -44,6 +44,14 @@ That is also reflected in my repos, where you can find:
 - font-experiments
 - language learning content (ANKI & Vocabulary Scraper)
 - and much more... 😉
+
+
+# ❤️ Support:
+
+All mine and our projects are provided free of charge.
+If you like what we do, we would appreciate your support! 🤝
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/born2root)
 
 
 # 📊 GitHub Stats:
